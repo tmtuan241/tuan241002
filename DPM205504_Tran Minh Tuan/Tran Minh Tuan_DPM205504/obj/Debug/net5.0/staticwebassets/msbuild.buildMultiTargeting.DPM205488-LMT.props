@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DPM205488-LMT.props" />
+</Project>
